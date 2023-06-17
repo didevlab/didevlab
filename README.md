@@ -46,4 +46,4 @@ Hi 👋 My name is Diego Silva
   
 </div>
 
-![snake gif](https://github.com/didevlab/didevlab/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/didevlab/didevlab/blob/output/github-contribution-grid-snake.svg)
