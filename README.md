@@ -45,3 +45,5 @@ Hi 👋 My name is Diego Silva
   <img align="center" alt="Diego-centos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"><br>
   
 </div>
+
+![snake gif](https://github.com/didevlab/didevlab/blob/output/github-contribution-grid-snake.gif)
