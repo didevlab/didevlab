@@ -7,11 +7,6 @@ Hi 👋 My name is Diego Silva
 </p>
 
 ##
-<div style="display: inline_block">
-  <a href="http://www.github.com/didevlab"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=didevlab&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
-</div>
-
-##
 ### Skills
 <div style="display: inline_block">
   Cloud:<img align="center" alt="Diego-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
